@@ -2,7 +2,7 @@
 
   <h2> I'm Milena Monzón</h2>
 
-<iframe align='right' src="https://giphy.com/embed/NgurY1o4z080Jfoyzw" width="230" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+<img align='right' src="https://media4.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="230">
 
 <h3> 👩‍💻 About Me </h3>
 
@@ -48,8 +48,7 @@
 <br/>
 
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milemonson&layout=compact)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milemonson&show_icons=true&layout=compact)
 <br><br>
 
 
