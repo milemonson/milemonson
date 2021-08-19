@@ -2,7 +2,7 @@
 
   <h2> I'm Milena Monzón</h2>
 
-<img align='right' src="https://giphy.com/embed/rsUGLKwgSvSxmq1VrZ" width="230">
+<iframe align='right' src="https://giphy.com/embed/NgurY1o4z080Jfoyzw" width="230" height="230" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/transparent-NgurY1o4z080Jfoyzw">
 
 <h3> 👩‍💻 About Me </h3>
 
@@ -10,7 +10,7 @@
 
 - 🤔 &nbsp; Introducing in new technologies and developing software solutions.
 
-- 🎓 &nbsp; Studying autodidact Programming Lenguaje and Engineering at UNC FCEFYN.
+- 🎓 &nbsp; Studying self-taught Programmer Lenguaje and Engineering at UNC FCEFYN.
 
 - 🌱 &nbsp; Learning about Clojure & systems Design.
 
@@ -64,7 +64,7 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/milena-monzon/"><img alt="LinkedIn" src="https://img.shields.io/badge/milena-monzon/%20Malpani-blue?style=flat-square&logo=linkedin"></a
+<a href="https://www.linkedin.com/in/milena-monzon/"><img alt="LinkedIn" src="https://img.shields.io/badge/milena-monzon/blue?style=flat-square&logo=linkedin"></a
   
 <a href="mailto:milemonson@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-milemonson@gmail.com-blue?style=flat-square&logo=gmail"></a>
 
