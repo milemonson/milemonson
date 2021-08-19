@@ -63,9 +63,9 @@
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/milena-monzon/"><img alt="LinkedIn" src="https://img.shields.io/badge/milena-monzon/blue?style=flat-square&logo=linkedin"></a
+<a href="https://www.linkedin.com/in/milena-monzon/"><img alt="LinkedIn" src="https://img.shields.io/badge/Milena-pink?style=flat-square&logo=linkedin"></a>
   
-<a href="mailto:milemonson@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-milemonson@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:milemonson@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-milemonson@gmail.com-pink?style=flat-square&logo=gmail"></a>
 
 </p>
 
