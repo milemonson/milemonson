@@ -48,7 +48,8 @@
 <br/>
 
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milemonson&show_icons=true&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=milemonson&show_icons=true&layout=compact)]
+
 <br><br>
 
 
