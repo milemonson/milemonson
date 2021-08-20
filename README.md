@@ -10,7 +10,7 @@
 
 - 🤔 &nbsp; Introducing in new technologies and developing software solutions.
 
-- 🎓 &nbsp; Studying self-taught Programmer Lenguaje and Engineering at UNC FCEFYN.
+- 🎓 &nbsp; Studying self-taught Programmer language and Engineering at UNC FCEFYN.
 
 - 🌱 &nbsp; Learning about Clojure & systems Design.
 
@@ -48,7 +48,8 @@
 <br/>
 
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-lang/?username=milemonson&show_icons=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <br><br>
 
