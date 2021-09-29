@@ -1,6 +1,6 @@
 ### <h1 align='center'> Hi there 👋  </h1>
 
-  <h2 align='center'> I'm Milena Monzón</h2>
+  <h2 align='center'> I'm Milena</h2>
 
 <img align='right' src="https://media4.giphy.com/media/NgurY1o4z080Jfoyzw/giphy.gif" width="230">
 
