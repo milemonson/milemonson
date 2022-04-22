@@ -24,7 +24,7 @@
 
 - 💻 &nbsp; C# | Inicial Java |  InicialSQL | Python 
 
-- 🌐 &nbsp; HTML | CSS/SCSS | JavaScript & Data structure | Bootstrap | ReactJS | PugJS |  NodeJS | SEO
+- 🌐 &nbsp; HTML | CSS/SCSS | JavaScript & Data structure | Bootstrap | AngularJS | PugJS |  NodeJS | SEO
 
 - 🔧 &nbsp; Git | Eclipse | VsCode | Netbeans
 
